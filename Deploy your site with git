@@ -63,7 +63,7 @@ Set up service hook
     Enter the URL to your deployment script - http://server.com/deploy.php
     Click Update Settings
 
-Bitbucket instructions
+Bitbucket instructions (BitBucket)
 Add the SSH key to your account
 
     https://bitbucket.org/account/ssh-keys/
