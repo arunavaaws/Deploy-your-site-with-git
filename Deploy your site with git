@@ -102,3 +102,5 @@ Sources
         Build auto-deploy with php and git(hub) on an EC2 Amazon AMI instance - who in turn referenced:
             ec2-webapp / INSTALL.md
             How to deploy your code from GitHub automatically
+            
+#### https://gist.github.com/nichtich/5290675
